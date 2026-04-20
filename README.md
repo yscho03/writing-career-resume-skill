@@ -12,7 +12,7 @@
 
 ## 미리보기
 
-![writing-career-resume 출력 예시](docs/preview.jpg)
+![writing-career-resume 출력 예시](https://raw.githubusercontent.com/yscho03/writing-career-resume-skill/main/docs/preview.jpg)
 
 > 스킬로 생성한 경력기술서 샘플 (Markdown 렌더링 결과)
 
